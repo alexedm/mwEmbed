@@ -510,6 +510,7 @@
 		},
 		/**
 		 * Get the embed player time
+		 *
 		 */
 		getPlayerElementTime: function () {
 			var _this = this;
